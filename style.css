@@ -1,0 +1,30 @@
+.my-sec{
+	height: 150px;
+	background-image: url('../images/hero_1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.my-sec-inner{
+	background-color: rgba(55, 50, 50, 0.5);
+	/* opacity: 0.5; */
+}
+.my-sec2{
+	height: 150px;
+	background-image: url('../images/hero_1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.my-sec2-inner{
+	background-color: rgba(55, 50, 50, 0.5);
+	/* opacity: 0.5; */
+}
+.r1{
+	height: 50px;
+}
+.r2{
+	height: 50px;
+	background-image: linear-gradient(to left, rgba(67, 85, 246, 0), rgba(67,85,246,1));
+	
+}
